@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <ToastContainer />
         <Menu />
-        <div className="container mx-auto px-10 mt-10">{children}</div>
+        <div className="container mx-auto p-10">{children}</div>
       </body>
     </html>
   );
