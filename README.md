@@ -22,3 +22,4 @@ npm run dev
 # ou
 yarn dev
 ```
+- Crie um arquivo `.env.local` utilizando o arquivo `.env.local.example` como base e insira as credenciais.
